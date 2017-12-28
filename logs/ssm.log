@@ -1,0 +1,7 @@
+[DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Adding [servletConfigInitParams] PropertySource with lowest search precedence
+  [DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Adding [servletContextInitParams] PropertySource with lowest search precedence
+  [DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Adding [jndiProperties] PropertySource with lowest search precedence
+  [DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Adding [systemProperties] PropertySource with lowest search precedence
+  [DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Adding [systemEnvironment] PropertySource with lowest search precedence
+  [DEBUG] [2017-12-28 09:42:07][org.springframework.web.context.support.StandardServletEnvironment]Initialized StandardServletEnvironment with PropertySources [servletConfigInitParams,servletContextInitParams,jndiProperties,systemProperties,systemEnvironment]
+  
